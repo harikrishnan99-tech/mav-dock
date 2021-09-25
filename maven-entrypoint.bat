@@ -1,1 +1,1 @@
-java -jar java_app 0.0.1-SNAPSHOT.jar
+java -jar webapp-runner.jar
