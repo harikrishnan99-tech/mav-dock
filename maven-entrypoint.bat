@@ -1,0 +1,1 @@
+java -jar java_app 0.0.1-SNAPSHOT.jar
